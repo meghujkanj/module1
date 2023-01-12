@@ -1,4 +1,5 @@
 
+#hi people pls understand git
 # notebook.sh
 # updated 2022-09-12 by JRBT
 
